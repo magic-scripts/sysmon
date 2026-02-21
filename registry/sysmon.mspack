@@ -3,7 +3,7 @@
 
 # Package metadata
 name|sysmon
-description|sysmon
+description|System monitoring tool with visual bar charts
 author|nulLeeKH <nulleekh@gmail.com>
 license|MIT
 license_url|https://github.com/magic-scripts/sysmon/blob/main/LICENSE
@@ -15,6 +15,3 @@ min_ms_version|0.0.1
 
 # Version file link
 msver_url|https://raw.githubusercontent.com/magic-scripts/sysmon/main/registry/sysmon.msver
-
-# Configuration keys
-config|SYSMON_OPTION|default|Default option value|settings|sysmon
